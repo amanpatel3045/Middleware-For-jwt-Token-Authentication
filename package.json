@@ -1,0 +1,20 @@
+{
+  "name": "crud-rest-api-using-node",
+  "version": "1.0.0",
+  "description": "```\r This utility will walk you through creating a package.json file.\r It only covers the most common items, and tries to guess sensible defaults.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "aman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^5.0.1",
+    "mongoose": "^6.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
